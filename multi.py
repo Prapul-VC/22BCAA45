@@ -1,4 +1,4 @@
 a = 2
 b = 10
-c = a*b
+c = a+b
 printf("multiplication of a and b is =",c);
